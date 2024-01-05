@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"ranges": "c",
+		"random": "c",
+		"type_traits": "c"
+	}
+}
